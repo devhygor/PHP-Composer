@@ -1,0 +1,16 @@
+{
+    "name": "hygordev/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hygor Rocha",
+            "email": "hygor.k92@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^6.1"
+    }
+}
